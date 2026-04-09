@@ -1,5 +1,4 @@
-# SaraMohamedSayed
-I'm Sara
+# I'm Sara
 Full Stack Developer (.NET & Angular)
 
 - Building scalable APIs with ASP.NET Core
