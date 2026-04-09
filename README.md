@@ -10,4 +10,4 @@
 ## Featured Projects
 - E-commerce System (API + Angular)
 
-📄 [View My CV](https://github.com/saramohameddsayed/portfolio/Sara-Mohamed-Fullstack-Developer-CV.pdf)
+📄 [View My CV](https://github.com/SaraMohameddSayed/Portfolio/blob/main/Sara%20Mohamed-Fullstack%20Developer-CV.pdf)
